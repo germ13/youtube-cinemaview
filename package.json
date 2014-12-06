@@ -1,0 +1,33 @@
+{
+  "name": "youtube-cinemaview",
+  "version": "1.0.0",
+  "description": "Bookmarklet to show currently playing YouTube video in distraction-free mode, i.e. separate window with all clutter removed.",
+  "main": "youtube-cinemaview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/germ13/youtube-cinemaview.git"
+  },
+  "keywords": [
+    "youtube",
+    "bookmarklet",
+    "video",
+    "browser",
+    "chrome",
+    "firefox",
+    "safari",
+    "opera"
+  ],
+  "author": "juan serrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/germ13/youtube-cinemaview/issues"
+  },
+  "homepage": "https://github.com/germ13/youtube-cinemaview",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-uglify": "^1.0.2"
+  }
+}
